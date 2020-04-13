@@ -1,0 +1,280 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication1
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApplication1.DataSet3.facturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet3.facturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet3.facturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.DataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet3TableAdapters.facturasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.DataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:WindowsApplication1.DataSet3TableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.DataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:WindowsApplication1.DataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:WindowsApplication1.DataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:WindowsApplication1.DataSet1.pedidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet1.pedidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet1.pedidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet1TableAdapters.pedidoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2.ProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2.masVendidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2.ProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2.masVendidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2.ProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2.masVendidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2TableAdapters.ProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2TableAdapters.masVendidoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:WindowsApplication1.DataSet2TableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.DataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:WindowsApplication1.DataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4.facturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4.detalleXfacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4.facturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4.detalleXfacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4.facturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4.detalleXfacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4TableAdapters.facturasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4TableAdapters.detalleXfacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.DataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.DataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.DataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:WindowsApplication1.DataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:WindowsApplication1.DataSet4TableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.DataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:WindowsApplication1.DataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.AE">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Axion_05">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Axion_07">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.images">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

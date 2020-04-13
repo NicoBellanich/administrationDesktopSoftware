@@ -1,0 +1,307 @@
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\obj\Debug\WindowsApplication1.RegProveedor.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.2\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.3\WindowsApplication1\obj\Debug\WindowsApplication1.frmempleado.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\obj\Debug\WindowsApplication1.frmempleado.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.4\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.frmEmpleado.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.frmFactura.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.5\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuscarProductos.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuscarProductos.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmEmpleado.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmFactura.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\version 1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuscarProductos.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmEmpleado.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmFactura.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.6\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPedido.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuscarProductos.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmEmpleado.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmFactura.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPedido.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuscarProductos.resources
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmEmpleado.resources
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmFactura.resources
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPedido.resources
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\FLIA2012\Desktop\PAV\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuscarProductos.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmEmpleado.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmFactura.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPedido.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\VERSIONES PAV\WindowsApplication1.8\WindowsApplication1.7\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmABMUsuarios.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmABMUsuarios.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuscarProductos.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmEmpleado.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmFactura.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPedido.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\agustin\Desktop\PAV\ProjectoIntegrador\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmABMUsuarios.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuscarProductos.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmEmpleado.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmFactura.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPedido.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformePedidos.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformeProductos.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformeFacturas.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.LoguinCambio.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmABMUsuarios.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuscarProductos.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmEmpleado.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmFactura.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPedido.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.LoguinCambio.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformePedidos.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformeProductos.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformeFacturas.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.FormFacturas.resources
+C:\Users\Nico\Desktop\Cerramos Pav\programado - 4\Proyecto 2.0\WindowsApplication1.8\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.ArqueoDeCaja.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.ArqueoDeCaja.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.FormFacturas.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmABMUsuarios.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuscarProductos.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmEmpleado.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmFactura.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPedido.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.LoguinCambio.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformePedidos.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformeProductos.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformeFacturas.resources
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+C:\Users\Nico\Desktop\Cerramos Pav\fin\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.application
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.ArqueoDeCaja.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmABMUsuarios.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuscarProductos.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmEmpleado.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmFactura.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmLoguin.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPedido.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmPrincipial.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProducto.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformePedidos.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.frmProveedor.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformeProductos.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.InformeFacturas.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.application
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.ImprimirFactura.resources
+C:\Users\Nico\Desktop\auxilio me desmayo\WindowsApplication1.6\WindowsApplication1\obj\Debug\WindowsApplication1.VerFacturas.resources
